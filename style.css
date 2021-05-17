@@ -1,0 +1,54 @@
+
+H3 {color:springgreen}
+
+
+.r{
+    border:solid;
+    border-width: 5px;
+    border-radius:20px ;
+    background-color: #e123e1 ;
+    padding: 30px;
+    margin: 25px;
+    width: 310px;
+    color: (#10bec1) 
+}
+
+.d{
+   
+    border:solid;
+    border-width: 5px;
+    border-radius:20px ;
+    background:springgreen ;
+    padding: 30px;
+    margin: 25px;
+    width: 310px;
+    color: (#10bec1)
+
+}
+
+.k{
+    border:solid;
+    border-width: 5px;
+    border-radius:20px ;
+    background-color: #12345e ;
+    padding: 30px;
+    margin: 25px;
+    width: 310px;
+    color: (#10bec1) 
+}
+
+.t{
+    border:solid;
+    border-width: 5px;
+    border-radius:20px ;
+    background-color: #f1e30f;
+    padding: 30px;
+    margin: 25px;
+    width: 310px;
+    color: (#10bec1) 
+}
+
+body{
+    background-color:#fe1265;
+}
+  
